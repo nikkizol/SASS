@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99b0b739-f360-4851-a434-5646d03c40e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ftnXuYpxYiGPzMBNJvOPumriF6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99b0b739-f360-4851-a434-5646d03c40e6" name="Default Changelist" comment="" />
+      <created>1597046299560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597046299560</updated>
+      <workItem from="1597046300709" duration="947000" />
+      <workItem from="1597047375521" duration="44000" />
+      <workItem from="1597047477676" duration="16789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="235" key="EditFileWatcherDialog" timestamp="1597048888671">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="372" y="235" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1597048888671" />
+    <state x="50" y="152" width="1196" height="722" key="SettingsEditor" timestamp="1597066809352">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="50" y="152" width="1196" height="722" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1597066809352" />
+    <state x="519" y="315" key="scopes" timestamp="1597048884539">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="519" y="315" key="scopes/0.0.1440.900@0.0.1440.900" timestamp="1597048884539" />
+  </component>
+</project>
