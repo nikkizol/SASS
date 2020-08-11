@@ -11,7 +11,7 @@
   * Extend/Inheritance
   * Operators (Math) 
  
-### Your mission is to rewrite the example.css to a scss file with the following changes:
+### Mission is to rewrite the example.css to a scss file with the following changes:
 
 ### Part 01
 * Make one mixin for the 3 lines of the box-shadow styling.
